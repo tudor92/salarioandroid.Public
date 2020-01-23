@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "784365815729",
+    "firebase_url": "https://salario-57bf3.firebaseio.com",
+    "project_id": "salario-57bf3",
+    "storage_bucket": "salario-57bf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784365815729:android:96bdbe0cc1dbb273",
+        "android_client_info": {
+          "package_name": "com.devnative.salario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784365815729-o6g70m5435vrgdmun5k2ncn4v5q45vo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAEZ9PtC_CdVkR1plOyD-fC50czDWouPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784365815729-o6g70m5435vrgdmun5k2ncn4v5q45vo6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784365815729-v3oi4055fgm0p780cfufpoemj6p2uigu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.salario",
+                "app_store_id": "1440425368"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7901702665820540~1051073353"
+    }
+  ],
+  "configuration_version": "1"
+}
